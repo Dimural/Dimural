@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimural Murat</h1>
 <h3 align="center">Software Developer · Computer Science @ University of Toronto</h3>
 
-- 🔭 I’m currently working as a Full Stack Developer Intern at [Morphace](https://www.morphace.com)
+- 🔭 Previously working as a Full Stack Developer Intern at [Morphace](https://www.morphace.com)
 
 - 👯 I’m looking to collaborate on **Applied machine learning and real-world software projects**
 
